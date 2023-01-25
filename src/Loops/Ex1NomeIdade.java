@@ -1,8 +1,10 @@
+package Loops;
 
 import java.util.Scanner;
 
-public class NomeIdade {
-    public static void main(String[] args) throws Exception {
+public class Ex1NomeIdade {
+    
+    public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
         
